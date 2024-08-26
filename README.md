@@ -26,6 +26,9 @@
         <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="TypeScript"
                         src="https://img.shields.io/badge/-TypeScript-02cdf1?style=flat-square&logo=TypeScript&logoColor=white">
         </a>
+        <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="ExpressJS"
+                        src="https://img.shields.io/badge/-ExpressJS-02cdf1?style=flat-square&logo=ExpressJS&logoColor=white">
+        </a>
         
 </p>
 
