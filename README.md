@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**laithalhelwane/laithalhelwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Laith Alhelwane</b>
+        </samp>
+</h3>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer and Cybersecurity student at <b>Saarland University</b>  」
+                <br>
+                「 Focused on creating and securing software </b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        <!-- JavaScript -->
+        <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- React -->
+        <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="TypeScript"
+                        src="https://img.shields.io/badge/-TypeScript-02cdf1?style=flat-square&logo=TypeScript&logoColor=white">
+        </a>
+        
+</p>
+
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
+
+<!-- Featured Repositories -->
