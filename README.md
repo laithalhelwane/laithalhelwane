@@ -13,7 +13,7 @@
         <samp>
                 「 I'm a software developer and Cybersecurity student at <b>Saarland University</b>  」
                 <br>
-                「 Focused on creating and securing software </b> 」
+                「 Focused on creating and securing software systems </b> 」
                 <br>
                 <br>
         </samp>
