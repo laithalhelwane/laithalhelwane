@@ -18,16 +18,17 @@
                 <br>
         </samp>
         <!-- Technologies -->
-        <!-- JavaScript -->
         <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
-        <!-- React -->
         <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="TypeScript"
                         src="https://img.shields.io/badge/-TypeScript-02cdf1?style=flat-square&logo=TypeScript&logoColor=white">
         </a>
+        <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="NodeJS"
+                        src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+        </a>
         <a href="https://github.com/laithalhelwane?tab=repositories" target="_blank"><img alt="ExpressJS"
-                        src="https://img.shields.io/badge/-ExpressJS-02cdf1?style=flat-square&logo=ExpressJS&logoColor=white">
+                        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
         </a>
         
 </p>
